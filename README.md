@@ -29,7 +29,7 @@ All interactions are handled through a single FastAPI endpoint:
 
 1. **Clone the repository**
     ```bash
-    git clone https://github.com/jahidul17/Samsung-Phone-Advisor-AI-agents.git
+    git clone https://github.com/thezahidul/Samsung-Phone-Advisor-AI-agents.git
     cd Samsung-Phone-Advisor-AI-agents/samsung_advisor
     ```
 
